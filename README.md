@@ -8,7 +8,7 @@ This [Serverless](http://serverless.com) plugin imports AWS API Gateway Endpoint
 In your project root, run:
 
 ```bash
-npm install --save serverless-swagger-import-plugin
+npm install --save https://github.com/serverless/serverless-swagger-plugin
 ```
 
 Add the plugin to `s-project.json`:
